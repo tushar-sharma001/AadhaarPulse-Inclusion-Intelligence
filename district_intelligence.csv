@@ -1,0 +1,1046 @@
+state,district,total_enrolment,population,adoption_gap_score,risk_flag
+100000,100000,218,2.0,0.0,Low Risk
+Andaman & Nicobar Islands,Andamans,75,750.0,0.9,High Risk
+Andaman & Nicobar Islands,Nicobars,1,4.0,0.75,High Risk
+Andaman & Nicobar Islands,South Andaman,38,305.0,0.8754098360655738,High Risk
+Andaman And Nicobar Islands,Nicobar,75,787.0,0.9047013977128335,High Risk
+Andaman And Nicobar Islands,North And Middle Andaman,132,2009.0,0.9342956694873071,High Risk
+Andaman And Nicobar Islands,South Andaman,190,3391.0,0.9439693305809496,High Risk
+Andhra Pradesh,Adilabad,1419,29291.0,0.9515550851797481,High Risk
+Andhra Pradesh,Alluri Sitharama Raju,1255,12871.0,0.9024939787118328,High Risk
+Andhra Pradesh,Anakapalli,543,13460.0,0.9596582466567608,High Risk
+Andhra Pradesh,Anantapur,4415,68745.0,0.9357771474289039,High Risk
+Andhra Pradesh,Ananthapur,1994,30026.0,0.9335908878971558,High Risk
+Andhra Pradesh,Ananthapuramu,3187,55944.0,0.943032318032318,High Risk
+Andhra Pradesh,Annamayya,1021,33634.0,0.9696438128084677,High Risk
+Andhra Pradesh,Bapatla,492,13514.0,0.9635933106408169,High Risk
+Andhra Pradesh,Chittoor,8199,169636.0,0.9516670989648424,High Risk
+Andhra Pradesh,Cuddapah,5934,83667.0,0.929075979776973,High Risk
+Andhra Pradesh,Dr. B. R. Ambedkar Konaseema,665,14156.0,0.9530234529528115,High Risk
+Andhra Pradesh,East Godavari,7678,156025.0,0.9507899375100144,High Risk
+Andhra Pradesh,Eluru,629,17584.0,0.9642288444040037,High Risk
+Andhra Pradesh,Guntur,9729,177221.0,0.9451024427127711,High Risk
+Andhra Pradesh,Hyderabad,4840,36206.0,0.8663204993647462,High Risk
+Andhra Pradesh,K.V. Rangareddy,19,166.0,0.8855421686746988,High Risk
+Andhra Pradesh,K.V.Rangareddy,69,518.0,0.8667953667953667,High Risk
+Andhra Pradesh,Kakinada,969,28269.0,0.9657221691605645,High Risk
+Andhra Pradesh,Karim Nagar,82,1151.0,0.9287576020851434,High Risk
+Andhra Pradesh,Karimnagar,659,10331.0,0.936211402574775,High Risk
+Andhra Pradesh,Khammam,1133,32368.0,0.9649962926347009,High Risk
+Andhra Pradesh,Krishna,6737,111849.0,0.9397670073044909,High Risk
+Andhra Pradesh,Kurnool,11770,177645.0,0.9337442652481072,High Risk
+Andhra Pradesh,Mahabub Nagar,1511,12813.0,0.8820728947163038,High Risk
+Andhra Pradesh,Mahabubnagar,7,81.0,0.9135802469135803,High Risk
+Andhra Pradesh,Mahbubnagar,722,9897.0,0.9270486005860362,High Risk
+Andhra Pradesh,Medak,1406,12963.0,0.891537452750135,High Risk
+Andhra Pradesh,N. T. R,933,38070.0,0.9754925137903862,High Risk
+Andhra Pradesh,Nalgonda,1167,29844.0,0.9608966626457579,High Risk
+Andhra Pradesh,Nandyal,905,27385.0,0.966952711338324,High Risk
+Andhra Pradesh,Nellore,5367,68123.0,0.9212160357001307,High Risk
+Andhra Pradesh,Nizamabad,524,5541.0,0.9054322324490164,High Risk
+Andhra Pradesh,Palnadu,860,25495.0,0.9662678956658168,High Risk
+Andhra Pradesh,Parvathipuram Manyam,508,9391.0,0.9459056543499095,High Risk
+Andhra Pradesh,Prakasam,7623,120498.0,0.9367375392122691,High Risk
+Andhra Pradesh,Rangareddi,1884,22265.0,0.9153828879407141,High Risk
+Andhra Pradesh,Spsr Nellore,2183,,0.0,Low Risk
+Andhra Pradesh,Sri Potti Sriramulu Nellore,1614,22065.0,0.9268524813052346,High Risk
+Andhra Pradesh,Sri Sathya Sai,938,22107.0,0.9575700004523454,High Risk
+Andhra Pradesh,Srikakulam,4300,135699.0,0.9683122204290378,High Risk
+Andhra Pradesh,Tirupati,1719,33230.0,0.9482696358712007,High Risk
+Andhra Pradesh,Visakhapatanam,226,,0.0,Low Risk
+Andhra Pradesh,Visakhapatnam,8178,157193.0,0.9479747825921001,High Risk
+Andhra Pradesh,Vizianagaram,3856,78887.0,0.9511199563933221,High Risk
+Andhra Pradesh,Warangal,1059,34766.0,0.9695392049703734,High Risk
+Andhra Pradesh,West Godavari,5935,126806.0,0.9531962209990064,High Risk
+Andhra Pradesh,Y. S. R,823,28186.0,0.9708011069325196,High Risk
+Arunachal Pradesh,Anjaw,37,760.0,0.9513157894736842,High Risk
+Arunachal Pradesh,Changlang,803,5659.0,0.8581021381869588,High Risk
+Arunachal Pradesh,Dibang Valley,10,160.0,0.9375,High Risk
+Arunachal Pradesh,East Kameng,181,1422.0,0.8727144866385372,High Risk
+Arunachal Pradesh,East Siang,168,2503.0,0.9328805433479824,High Risk
+Arunachal Pradesh,Kamle,30,318.0,0.9056603773584906,High Risk
+Arunachal Pradesh,Kra Daadi,81,514.0,0.8424124513618677,High Risk
+Arunachal Pradesh,Kurung Kumey,75,335.0,0.7761194029850746,High Risk
+Arunachal Pradesh,Leparada,3,23.0,0.8695652173913043,High Risk
+Arunachal Pradesh,Lohit,166,1866.0,0.9110396570203644,High Risk
+Arunachal Pradesh,Longding,897,1485.0,0.39595959595959596,Medium Risk
+Arunachal Pradesh,Lower Dibang Valley,109,1157.0,0.9057908383751081,High Risk
+Arunachal Pradesh,Lower Siang,31,339.0,0.9085545722713865,High Risk
+Arunachal Pradesh,Lower Subansiri,105,1521.0,0.9309664694280079,High Risk
+Arunachal Pradesh,Namsai,150,2135.0,0.9297423887587822,High Risk
+Arunachal Pradesh,Pakke Kessang,4,87.0,0.9540229885057472,High Risk
+Arunachal Pradesh,Papum Pare,447,4922.0,0.9091832588378708,High Risk
+Arunachal Pradesh,Shi-Yomi,35,238.0,0.8529411764705882,High Risk
+Arunachal Pradesh,Siang,103,777.0,0.8674388674388674,High Risk
+Arunachal Pradesh,Tawang,154,951.0,0.8380651945320715,High Risk
+Arunachal Pradesh,Tirap,99,990.0,0.9,High Risk
+Arunachal Pradesh,Upper Siang,43,1321.0,0.967448902346707,High Risk
+Arunachal Pradesh,Upper Subansiri,143,1549.0,0.907682375726275,High Risk
+Arunachal Pradesh,West Kameng,278,1859.0,0.8504572350726197,High Risk
+Arunachal Pradesh,West Siang,192,3552.0,0.9459459459459459,High Risk
+Assam,Bajali,29,844.0,0.9656398104265402,High Risk
+Assam,Baksa,3699,17012.0,0.7825652480601928,High Risk
+Assam,Barpeta,14383,59142.0,0.756805654188225,High Risk
+Assam,Biswanath,1329,11025.0,0.8794557823129252,High Risk
+Assam,Bongaigaon,3175,39124.0,0.9188477660770882,High Risk
+Assam,Cachar,17514,58019.0,0.6981333701028973,High Risk
+Assam,Charaideo,1189,9913.0,0.8800564914758398,High Risk
+Assam,Chirang,3348,13397.0,0.7500933044711502,High Risk
+Assam,Darrang,7595,28319.0,0.7318055016066951,High Risk
+Assam,Dhemaji,6901,22349.0,0.6912166092442615,High Risk
+Assam,Dhubri,12646,80799.0,0.8434881619822028,High Risk
+Assam,Dibrugarh,7062,26519.0,0.7337003657754817,High Risk
+Assam,Dima Hasao,250,280.0,0.1071428571428571,Low Risk
+Assam,Goalpara,9898,40567.0,0.7560085784011635,High Risk
+Assam,Golaghat,11505,27924.0,0.5879888268156425,Medium Risk
+Assam,Hailakandi,5578,21302.0,0.7381466528964417,High Risk
+Assam,Hojai,7050,25308.0,0.7214319582740636,High Risk
+Assam,Jorhat,4887,19788.0,0.7530321406913281,High Risk
+Assam,Kamrup,13666,44584.0,0.6934774807105688,High Risk
+Assam,Kamrup Metro,6046,26191.0,0.7691573441258448,High Risk
+Assam,Karbi Anglong,8107,31121.0,0.7395006587191928,High Risk
+Assam,Karimganj,14833,41414.0,0.6418360940744676,High Risk
+Assam,Kokrajhar,4609,22669.0,0.7966826944285147,High Risk
+Assam,Lakhimpur,7199,35412.0,0.7967073308483,High Risk
+Assam,Majuli,515,3281.0,0.8430356598597988,High Risk
+Assam,Marigaon,10487,43810.0,0.7606254279844784,High Risk
+Assam,Nagaon,12873,97377.0,0.8678024584860902,High Risk
+Assam,Nalbari,3881,20961.0,0.8148466199131721,High Risk
+Assam,North Cachar Hills,1058,3599.0,0.7060294526257294,High Risk
+Assam,Sibsagar,2737,13070.0,0.7905891354246366,High Risk
+Assam,Sivasagar,422,,0.0,Low Risk
+Assam,Sonitpur,9197,43576.0,0.7889434551129062,High Risk
+Assam,South Salmara Mankachar,1472,21047.0,0.9300612913954482,High Risk
+Assam,Sribhumi,169,5087.0,0.9667780617259681,High Risk
+Assam,Tamulpur District,55,1268.0,0.9566246056782335,High Risk
+Assam,Tinsukia,8384,35249.0,0.7621492808306618,High Risk
+Assam,Udalguri,4565,19780.0,0.769211324570273,High Risk
+Assam,West Karbi Anglong,1884,1451.0,0.0,Low Risk
+Bihar,Araria,15579,155315.0,0.899694169912758,High Risk
+Bihar,Arwal,3866,27770.0,0.8607850198055456,High Risk
+Bihar,Aurangabad,10170,105840.0,0.9039115646258503,High Risk
+Bihar,Aurangabad(Bh),113,694.0,0.8371757925072046,High Risk
+Bihar,Banka,11074,98120.0,0.8871381981247453,High Risk
+Bihar,Begusarai,13209,132990.0,0.9006767426122265,High Risk
+Bihar,Bhabua,31,132.0,0.7651515151515151,High Risk
+Bihar,Bhagalpur,21062,155026.0,0.8641389186330035,High Risk
+Bihar,Bhojpur,13357,142341.0,0.9061619631729438,High Risk
+Bihar,Buxar,7240,73902.0,0.9020324213147141,High Risk
+Bihar,Darbhanga,15765,153928.0,0.8975819863832442,High Risk
+Bihar,East Champaran,29323,248028.0,0.8817754447078556,High Risk
+Bihar,Gaya,27401,195174.0,0.859607324746124,High Risk
+Bihar,Gopalganj,15148,105867.0,0.8569148082027449,High Risk
+Bihar,Jamui,10382,66920.0,0.8448595337716677,High Risk
+Bihar,Jehanabad,4883,46361.0,0.8946744030542914,High Risk
+Bihar,Kaimur (Bhabua),7825,67018.0,0.8832403234951804,High Risk
+Bihar,Katihar,16350,180294.0,0.9093147858497787,High Risk
+Bihar,Khagaria,8196,75624.0,0.891621707394478,High Risk
+Bihar,Kishanganj,8764,145141.0,0.9396173376234145,High Risk
+Bihar,Lakhisarai,6155,48883.0,0.8740871059468527,High Risk
+Bihar,Madhepura,9027,91861.0,0.9017319645986872,High Risk
+Bihar,Madhubani,25930,181691.0,0.8572851709770984,High Risk
+Bihar,Monghyr,49,282.0,0.8262411347517731,High Risk
+Bihar,Munger,6087,55947.0,0.8912006005683951,High Risk
+Bihar,Muzaffarpur,28855,206917.0,0.8605479491776896,High Risk
+Bihar,Nalanda,14575,153043.0,0.904765327391648,High Risk
+Bihar,Nawada,15413,86518.0,0.8218521001410111,High Risk
+Bihar,Pashchim Champaran,16359,1120.0,0.0,Low Risk
+Bihar,Patna,24644,243772.0,0.8989055346799468,High Risk
+Bihar,Purba Champaran,127,934.0,0.8640256959314775,High Risk
+Bihar,Purbi Champaran,14871,,0.0,Low Risk
+Bihar,Purnea,257,2806.0,0.9084105488239487,High Risk
+Bihar,Purnia,20100,143374.0,0.8598072174871316,High Risk
+Bihar,Rohtas,7939,117745.0,0.932574631619177,High Risk
+Bihar,Saharsa,13063,81177.0,0.839080034985279,High Risk
+Bihar,Samastipur,19207,202292.0,0.9050530915706009,High Risk
+Bihar,Samstipur,82,448.0,0.8169642857142857,High Risk
+Bihar,Saran,24218,169845.0,0.8574111690070358,High Risk
+Bihar,Sheikhpura,3199,28088.0,0.8861079464540017,High Risk
+Bihar,Sheikpura,29,178.0,0.8370786516853932,High Risk
+Bihar,Sheohar,3262,31480.0,0.8963786531130877,High Risk
+Bihar,Sitamarhi,42232,169848.0,0.7513541519476238,High Risk
+Bihar,Siwan,15311,123722.0,0.876246746738656,High Risk
+Bihar,Supaul,10411,106911.0,0.9026199362086221,High Risk
+Bihar,Vaishali,18007,155594.0,0.8842693162975436,High Risk
+Bihar,West Champaran,30438,233389.0,0.8695825424505867,High Risk
+Chandigarh,Chandigarh,2720,83336.0,0.9673610444465777,High Risk
+Chandigarh,Rupnagar,3,20.0,0.85,High Risk
+Chhattisgarh,Balod,1678,59734.0,0.9719087956607627,High Risk
+Chhattisgarh,Baloda Bazar,4944,116270.0,0.9574782833060979,High Risk
+Chhattisgarh,Balrampur,6190,60301.0,0.8973483026815475,High Risk
+Chhattisgarh,Bastar,6608,79431.0,0.9168082990268283,High Risk
+Chhattisgarh,Bemetara,2771,58693.0,0.9527882370981208,High Risk
+Chhattisgarh,Bijapur,6724,13047.0,0.48463248256304137,Medium Risk
+Chhattisgarh,Bilaspur,8941,153341.0,0.941692045832491,High Risk
+Chhattisgarh,Dakshin Bastar Dantewada,1224,5896.0,0.7924016282225237,High Risk
+Chhattisgarh,Dantewada,710,2398.0,0.7039199332777315,High Risk
+Chhattisgarh,Dhamtari,1968,44713.0,0.9559859548677119,High Risk
+Chhattisgarh,Durg,4095,77149.0,0.9469208933362714,High Risk
+Chhattisgarh,Gariyaband,1542,27599.0,0.944128410449654,High Risk
+Chhattisgarh,Gaurela-Pendra-Marwahi,140,3425.0,0.9591240875912409,High Risk
+Chhattisgarh,Gaurella Pendra Marwahi,983,,0.0,Low Risk
+Chhattisgarh,Janjgir - Champa,33,215.0,0.8465116279069768,High Risk
+Chhattisgarh,Janjgir Champa,25,236.0,0.8940677966101696,High Risk
+Chhattisgarh,Janjgir-Champa,4639,112160.0,0.9586394436519258,High Risk
+Chhattisgarh,Jashpur,2543,71023.0,0.9641946974923616,High Risk
+Chhattisgarh,Kabeerdham,955,27101.0,0.964761447917051,High Risk
+Chhattisgarh,Kanker,1705,28840.0,0.940880721220527,High Risk
+Chhattisgarh,Kawardha,2142,67000.0,0.9680298507462687,High Risk
+Chhattisgarh,Khairagarh Chhuikhadan Gandai,246,6103.0,0.9596919547763395,High Risk
+Chhattisgarh,Kondagaon,3038,61964.0,0.9509715318572074,High Risk
+Chhattisgarh,Korba,3542,83374.0,0.9575167318348646,High Risk
+Chhattisgarh,Koriya,1763,31735.0,0.9444461950527808,High Risk
+Chhattisgarh,Mahasamund,3361,134887.0,0.9750828471238889,High Risk
+Chhattisgarh,Manendragarh–Chirmiri–Bharatpur,294,5113.0,0.9424995110502641,High Risk
+Chhattisgarh,Mohalla-Manpur-Ambagarh Chowki,14,181.0,0.9226519337016574,High Risk
+Chhattisgarh,Mohla-Manpur-Ambagarh Chouki,259,19811.0,0.9869264549997476,High Risk
+Chhattisgarh,Mungeli,2957,70564.0,0.958094779207528,High Risk
+Chhattisgarh,Narayanpur,762,16765.0,0.9545481658216523,High Risk
+Chhattisgarh,Raigarh,4956,83436.0,0.9406011793470445,High Risk
+Chhattisgarh,Raipur,7041,133007.0,0.9470629365371748,High Risk
+Chhattisgarh,Rajnandgaon,4185,148118.0,0.9717455002092926,High Risk
+Chhattisgarh,Sakti,455,9685.0,0.9530201342281879,High Risk
+Chhattisgarh,Sarangarh-Bilaigarh,186,8055.0,0.9769087523277468,High Risk
+Chhattisgarh,Sukma,2179,12746.0,0.8290444060881845,High Risk
+Chhattisgarh,Surajpur,2977,42067.0,0.9292319395250433,High Risk
+Chhattisgarh,Surguja,3556,115683.0,0.9692608248402963,High Risk
+Chhattisgarh,Uttar Bastar Kanker,888,13568.0,0.9345518867924528,High Risk
+Dadra & Nagar Haveli,Dadra & Nagar Haveli,25,235.0,0.8936170212765957,High Risk
+Dadra And Nagar Haveli,Dadra And Nagar Haveli,744,6033.0,0.8766782695176529,High Risk
+Dadra And Nagar Haveli And Daman And Diu,Dadra And Nagar Haveli,88,1689.0,0.9478981645944345,High Risk
+Dadra And Nagar Haveli And Daman And Diu,Daman,63,1687.0,0.9626556016597511,High Risk
+Dadra And Nagar Haveli And Daman And Diu,Diu,22,364.0,0.9395604395604396,High Risk
+Daman & Diu,Daman,9,377.0,0.9761273209549072,High Risk
+Daman & Diu,Diu,12,267.0,0.9550561797752809,High Risk
+Daman And Diu,Daman,58,1104.0,0.947463768115942,High Risk
+Daman And Diu,Diu,62,448.0,0.8616071428571428,High Risk
+Delhi,Central Delhi,3947,49047.0,0.9195261687768874,High Risk
+Delhi,East Delhi,10736,187061.0,0.9426069570888641,High Risk
+Delhi,Najafgarh,30,195.0,0.8461538461538461,High Risk
+Delhi,New Delhi,1637,4061.0,0.5968973159320364,Medium Risk
+Delhi,North Delhi,4459,86900.0,0.9486881472957422,High Risk
+Delhi,North East,1738,11827.0,0.8530481102561934,High Risk
+Delhi,North East   *,2,,0.0,Low Risk
+Delhi,North East Delhi,12113,141148.0,0.9141822767591464,High Risk
+Delhi,North West Delhi,16043,313989.0,0.9489058533897684,High Risk
+Delhi,Shahdara,1700,28544.0,0.9404428251121076,High Risk
+Delhi,South Delhi,13395,213489.0,0.9372567204867698,High Risk
+Delhi,South East Delhi,60,1169.0,0.9486740804106073,High Risk
+Delhi,South West Delhi,9255,169699.0,0.9454622596479649,High Risk
+Delhi,West Delhi,19414,231805.0,0.9162485709971744,High Risk
+Goa,Bardez,2,31.0,0.935483870967742,High Risk
+Goa,North Goa,1354,18843.0,0.9281430770047232,High Risk
+Goa,South Goa,977,16238.0,0.9398324916861682,High Risk
+Gujarat,Ahmadabad,6667,7760.0,0.14085051546391758,Low Risk
+Gujarat,Ahmedabad,19130,267884.0,0.928588493527049,High Risk
+Gujarat,Amreli,4293,27888.0,0.8460628227194492,High Risk
+Gujarat,Anand,6980,39149.0,0.8217068124345449,High Risk
+Gujarat,Arvalli,2391,8096.0,0.7046689723320159,High Risk
+Gujarat,Banas Kantha,13498,473.0,0.0,Low Risk
+Gujarat,Banaskantha,17360,75207.0,0.7691704229659473,High Risk
+Gujarat,Bharuch,4351,49806.0,0.9126410472633819,High Risk
+Gujarat,Bhavnagar,10174,57862.0,0.8241678476374823,High Risk
+Gujarat,Botad,2947,7545.0,0.6094102054340622,High Risk
+Gujarat,Chhotaudepur,4107,9631.0,0.5735645312013291,Medium Risk
+Gujarat,Dahod,10509,35936.0,0.7075634461264471,High Risk
+Gujarat,Dang,872,,0.0,Low Risk
+Gujarat,Devbhumi Dwarka,2490,6586.0,0.6219252960825994,High Risk
+Gujarat,Dohad,13003,5212.0,0.0,Low Risk
+Gujarat,Gandhinagar,5650,64588.0,0.9125224499907103,High Risk
+Gujarat,Gir Somnath,5723,12066.0,0.5256920271838224,Medium Risk
+Gujarat,Jamnagar,6078,45719.0,0.8670574596994685,High Risk
+Gujarat,Junagadh,5536,38045.0,0.8544881061900381,High Risk
+Gujarat,Kachchh,9302,66789.0,0.8607255685816526,High Risk
+Gujarat,Kheda,7567,52619.0,0.8561926300385793,High Risk
+Gujarat,Mahesana,6490,50217.0,0.8707608977039648,High Risk
+Gujarat,Mahisagar,2563,7507.0,0.6585853203676568,High Risk
+Gujarat,Morbi,8004,19799.0,0.5957371584423456,Medium Risk
+Gujarat,Narmada,1280,14757.0,0.913261503015518,High Risk
+Gujarat,Navsari,2757,29602.0,0.9068644010539828,High Risk
+Gujarat,Panch Mahals,1402,417.0,0.0,Low Risk
+Gujarat,Panchmahals,6279,32470.0,0.8066214967662457,High Risk
+Gujarat,Patan,8967,29559.0,0.6966406170709429,High Risk
+Gujarat,Porbandar,2519,14623.0,0.827737126444642,High Risk
+Gujarat,Rajkot,17070,137600.0,0.8759447674418605,High Risk
+Gujarat,Sabar Kantha,2437,643.0,0.0,Low Risk
+Gujarat,Sabarkantha,5115,43877.0,0.883424117419149,High Risk
+Gujarat,Surat,25469,357582.0,0.9287743790235526,High Risk
+Gujarat,Surendra Nagar,6855,38759.0,0.823137851853763,High Risk
+Gujarat,Surendranagar,1442,913.0,0.0,Low Risk
+Gujarat,Tapi,2212,12190.0,0.8185397867104184,High Risk
+Gujarat,The Dangs,1328,6581.0,0.7982069594286583,High Risk
+Gujarat,Vadodara,12284,100027.0,0.8771931578473812,High Risk
+Gujarat,Valsad,7448,48343.0,0.8459342614235774,High Risk
+Haryana,Ambala,3218,33242.0,0.9031947536249323,High Risk
+Haryana,Bhiwani,3489,34280.0,0.898220536756126,High Risk
+Haryana,Charkhi Dadri,858,12095.0,0.9290615957007028,High Risk
+Haryana,Faridabad,16155,160555.0,0.8993802746722307,High Risk
+Haryana,Fatehabad,2612,41970.0,0.9377650702883011,High Risk
+Haryana,Gurgaon,6861,119213.0,0.9424475518609547,High Risk
+Haryana,Gurugram,2636,,0.0,Low Risk
+Haryana,Hisar,5234,63206.0,0.9171914058791887,High Risk
+Haryana,Jhajjar,2624,32384.0,0.9189723320158103,High Risk
+Haryana,Jhajjar *,1,,0.0,Low Risk
+Haryana,Jind,3821,44013.0,0.9131847408720151,High Risk
+Haryana,Kaithal,2991,39974.0,0.925176364637014,High Risk
+Haryana,Karnal,4048,49131.0,0.9176080275182675,High Risk
+Haryana,Kurukshetra,2404,28709.0,0.9162631927270194,High Risk
+Haryana,Mahendragarh,2754,28534.0,0.9034835634681433,High Risk
+Haryana,Mewat,7558,66667.0,0.8866305668471658,High Risk
+Haryana,Nuh,1506,,0.0,Low Risk
+Haryana,Palwal,4703,68968.0,0.9318089548776244,High Risk
+Haryana,Panchkula,1384,34418.0,0.9597884827706433,High Risk
+Haryana,Panipat,6088,69084.0,0.9118753980661224,High Risk
+Haryana,Rewari,2485,44031.0,0.9435624900638186,High Risk
+Haryana,Rohtak,3413,26531.0,0.8713580339979646,High Risk
+Haryana,Sirsa,3335,55162.0,0.9395417134984229,High Risk
+Haryana,Sonipat,4619,60664.0,0.9238592905182645,High Risk
+Haryana,Yamuna Nagar,3396,52881.0,0.9357803369830374,High Risk
+Haryana,Yamunanagar,59,428.0,0.8621495327102804,High Risk
+Himachal Pradesh,Bilaspur,999,6760.0,0.8522189349112426,High Risk
+Himachal Pradesh,Chamba,1657,19658.0,0.9157086173568013,High Risk
+Himachal Pradesh,Hamirpur,1198,7320.0,0.8363387978142076,High Risk
+Himachal Pradesh,Kangra,3966,34127.0,0.8837870307967298,High Risk
+Himachal Pradesh,Kinnaur,163,1169.0,0.8605645851154833,High Risk
+Himachal Pradesh,Kullu,1239,9602.0,0.870964382420329,High Risk
+Himachal Pradesh,Lahaul And Spiti,3,59.0,0.9491525423728814,High Risk
+Himachal Pradesh,Lahul & Spiti,38,277.0,0.8628158844765343,High Risk
+Himachal Pradesh,Lahul And Spiti,32,233.0,0.8626609442060086,High Risk
+Himachal Pradesh,Mandi,2514,16305.0,0.8458141674333026,High Risk
+Himachal Pradesh,Shimla,1670,15742.0,0.893914369203405,High Risk
+Himachal Pradesh,Sirmaur,1584,19418.0,0.9184262024925327,High Risk
+Himachal Pradesh,Solan,1176,8983.0,0.8690860514304798,High Risk
+Himachal Pradesh,Una,1247,9561.0,0.8695743123104278,High Risk
+Jammu & Kashmir,Anantnag,4,11.0,0.6363636363636364,High Risk
+Jammu & Kashmir,Badgam,2,5.0,0.6,Medium Risk
+Jammu & Kashmir,Bandipur,2,,0.0,Low Risk
+Jammu & Kashmir,Baramula,47,105.0,0.5523809523809524,Medium Risk
+Jammu & Kashmir,Doda,2,5.0,0.6,Medium Risk
+Jammu & Kashmir,Jammu,62,193.0,0.6787564766839378,High Risk
+Jammu & Kashmir,Kargil,4,11.0,0.6363636363636364,High Risk
+Jammu & Kashmir,Kathua,8,48.0,0.8333333333333334,High Risk
+Jammu & Kashmir,Kupwara,9,7.0,0.0,Low Risk
+Jammu & Kashmir,Leh (Ladakh),3,7.0,0.5714285714285714,Medium Risk
+Jammu & Kashmir,Pulwama,4,1.0,0.0,Low Risk
+Jammu & Kashmir,Punch,1,5.0,0.8,High Risk
+Jammu & Kashmir,Rajauri,2,15.0,0.8666666666666667,High Risk
+Jammu & Kashmir,Srinagar,3,10.0,0.7,High Risk
+Jammu & Kashmir,Udhampur,2,3.0,0.33333333333333337,Medium Risk
+Jammu And Kashmir,Anantnag,3350,35555.0,0.9057797778090283,High Risk
+Jammu And Kashmir,Badgam,1865,12114.0,0.8460458973088988,High Risk
+Jammu And Kashmir,Bandipore,1639,15894.0,0.8968793255316472,High Risk
+Jammu And Kashmir,Baramula,3747,36690.0,0.8978740801308258,High Risk
+Jammu And Kashmir,Budgam,859,18622.0,0.9538717645795296,High Risk
+Jammu And Kashmir,Doda,4502,11372.0,0.6041153710868801,High Risk
+Jammu And Kashmir,Ganderbal,843,7529.0,0.8880329393013681,High Risk
+Jammu And Kashmir,Jammu,4558,34923.0,0.8694842940182688,High Risk
+Jammu And Kashmir,Kargil,526,2045.0,0.7427872860635697,High Risk
+Jammu And Kashmir,Kathua,2954,20430.0,0.8554087126774351,High Risk
+Jammu And Kashmir,Kishtwar,1269,5868.0,0.7837423312883436,High Risk
+Jammu And Kashmir,Kulgam,1211,12407.0,0.9023938099459983,High Risk
+Jammu And Kashmir,Kupwara,2875,45130.0,0.936295147352094,High Risk
+Jammu And Kashmir,Leh,206,1427.0,0.8556412053258584,High Risk
+Jammu And Kashmir,Pulwama,1871,21486.0,0.9129200409569022,High Risk
+Jammu And Kashmir,Punch,2629,23435.0,0.8878173671858332,High Risk
+Jammu And Kashmir,Rajouri,2674,15808.0,0.8308451417004048,High Risk
+Jammu And Kashmir,Ramban,1920,7754.0,0.7523858653598143,High Risk
+Jammu And Kashmir,Reasi,1715,8400.0,0.7958333333333334,High Risk
+Jammu And Kashmir,Samba,588,5120.0,0.88515625,High Risk
+Jammu And Kashmir,Shopian,412,,0.0,Low Risk
+Jammu And Kashmir,Shupiyan,666,8207.0,0.918849762397953,High Risk
+Jammu And Kashmir,Srinagar,3256,39706.0,0.9179972800080592,High Risk
+Jammu And Kashmir,Udhampur,2806,16850.0,0.8334718100890208,High Risk
+Jharkhand,Bokaro,5800,70673.0,0.9179318834632745,High Risk
+Jharkhand,Bokaro *,2,,0.0,Low Risk
+Jharkhand,Chatra,6302,47296.0,0.8667540595399188,High Risk
+Jharkhand,Deoghar,8324,60060.0,0.8614052614052614,High Risk
+Jharkhand,Dhanbad,11031,107797.0,0.8976687662921974,High Risk
+Jharkhand,Dumka,5825,59658.0,0.9023601193469443,High Risk
+Jharkhand,East Singhbhum,8191,60660.0,0.8649686778766897,High Risk
+Jharkhand,East Singhbum,1447,,0.0,Low Risk
+Jharkhand,Garhwa,6073,40273.0,0.8492041814615251,High Risk
+Jharkhand,Garhwa *,381,2116.0,0.8199432892249527,High Risk
+Jharkhand,Giridih,14303,125671.0,0.8861869484606631,High Risk
+Jharkhand,Godda,5390,57677.0,0.9065485375452953,High Risk
+Jharkhand,Gumla,6701,46753.0,0.8566722991038008,High Risk
+Jharkhand,Hazaribag,566,9726.0,0.941805469874563,High Risk
+Jharkhand,Hazaribagh,6204,66645.0,0.9069097456673418,High Risk
+Jharkhand,Jamtara,4450,33003.0,0.8651637729903342,High Risk
+Jharkhand,Khunti,2644,21421.0,0.8765697213015265,High Risk
+Jharkhand,Kodarma,310,3003.0,0.8967698967698967,High Risk
+Jharkhand,Koderma,3222,24185.0,0.8667769278478396,High Risk
+Jharkhand,Latehar,2609,38645.0,0.9324880320869453,High Risk
+Jharkhand,Lohardaga,2959,17419.0,0.8301280211263563,High Risk
+Jharkhand,Pakaur,297,3678.0,0.9192495921696574,High Risk
+Jharkhand,Pakur,6924,45461.0,0.8476936275048943,High Risk
+Jharkhand,Palamau,286,3686.0,0.9224091155724362,High Risk
+Jharkhand,Palamu,8606,114051.0,0.9245425292193843,High Risk
+Jharkhand,Pashchimi Singhbhum,599,9157.0,0.9345855629573004,High Risk
+Jharkhand,Purbi Singhbhum,986,4866.0,0.7973695026715988,High Risk
+Jharkhand,Ramgarh,2979,35460.0,0.915989847715736,High Risk
+Jharkhand,Ranchi,14265,103653.0,0.8623773552140315,High Risk
+Jharkhand,Sahebganj,6321,65749.0,0.9038616556905809,High Risk
+Jharkhand,Sahibganj,365,2656.0,0.8625753012048193,High Risk
+Jharkhand,Seraikela-Kharsawan,4250,34701.0,0.8775251433676263,High Risk
+Jharkhand,Simdega,2079,26085.0,0.920299022426682,High Risk
+Jharkhand,West Singhbhum,6848,59305.0,0.8845291290784926,High Risk
+Karnataka,Bagalkot,7142,52661.0,0.8643778128026434,High Risk
+Karnataka,Bagalkot *,249,1196.0,0.7918060200668896,High Risk
+Karnataka,Ballari,2781,24399.0,0.8860199188491331,High Risk
+Karnataka,Bangalore,7016,51842.0,0.8646657150572894,High Risk
+Karnataka,Bangalore Rural,2644,48234.0,0.9451838951776755,High Risk
+Karnataka,Belagavi,7805,54321.0,0.856317078109755,High Risk
+Karnataka,Belgaum,6743,63022.0,0.8930056170860969,High Risk
+Karnataka,Bellary,4220,27380.0,0.845872899926954,High Risk
+Karnataka,Bengaluru,30980,303924.0,0.8980666219186375,High Risk
+Karnataka,Bengaluru Rural,2790,79.0,0.0,Low Risk
+Karnataka,Bengaluru South,203,3714.0,0.9453419493807216,High Risk
+Karnataka,Bengaluru Urban,23074,,0.0,Low Risk
+Karnataka,Bidar,4920,43059.0,0.8857381732042082,High Risk
+Karnataka,Bijapur,4231,30382.0,0.8607399117898755,High Risk
+Karnataka,Bijapur(Kar),3,1.0,0.0,Low Risk
+Karnataka,Chamarajanagar,249,1110.0,0.7756756756756756,High Risk
+Karnataka,Chamarajanagar *,23,56.0,0.5892857142857143,Medium Risk
+Karnataka,Chamrajanagar,2227,15211.0,0.8535927946880547,High Risk
+Karnataka,Chamrajnagar,380,1936.0,0.8037190082644627,High Risk
+Karnataka,Chickmagalur,1231,10484.0,0.8825829835940481,High Risk
+Karnataka,Chikkaballapur,3152,36221.0,0.9129786587891002,High Risk
+Karnataka,Chikkamagaluru,1151,11089.0,0.8962034448552619,High Risk
+Karnataka,Chikmagalur,154,712.0,0.7837078651685393,High Risk
+Karnataka,Chitradurga,4413,47341.0,0.9067827042098815,High Risk
+Karnataka,Dakshina Kannada,6505,56402.0,0.8846672103826105,High Risk
+Karnataka,Davanagere,483,3186.0,0.8483992467043314,High Risk
+Karnataka,Davangere,4813,33773.0,0.8574897107156605,High Risk
+Karnataka,Dharwad,5103,55119.0,0.9074184945300169,High Risk
+Karnataka,Gadag,4457,28744.0,0.8449415530197606,High Risk
+Karnataka,Gadag *,145,847.0,0.8288075560802833,High Risk
+Karnataka,Gulbarga,4356,23699.0,0.8161947761508924,High Risk
+Karnataka,Hasan,993,8568.0,0.8841036414565826,High Risk
+Karnataka,Hassan,2494,38846.0,0.935797765535705,High Risk
+Karnataka,Haveri,4242,57630.0,0.9263925039042166,High Risk
+Karnataka,Haveri *,117,964.0,0.8786307053941909,High Risk
+Karnataka,Kalaburagi,4782,40220.0,0.8811039283938339,High Risk
+Karnataka,Kodagu,1211,11481.0,0.8945213831547775,High Risk
+Karnataka,Kolar,4186,47265.0,0.9114355231143553,High Risk
+Karnataka,Koppal,5451,43399.0,0.8743980276043226,High Risk
+Karnataka,Mandya,3594,40261.0,0.9107324706291449,High Risk
+Karnataka,Mysore,3073,21231.0,0.8552588196505111,High Risk
+Karnataka,Mysuru,4361,37185.0,0.8827215274976469,High Risk
+Karnataka,Raichur,9779,48164.0,0.7969645378290839,High Risk
+Karnataka,Ramanagar,2949,34834.0,0.9153413331802263,High Risk
+Karnataka,Ramanagara,204,,0.0,Low Risk
+Karnataka,Shimoga,2260,15514.0,0.8543251256929225,High Risk
+Karnataka,Shivamogga,2229,24751.0,0.9099430326047433,High Risk
+Karnataka,Tumakuru,3000,28425.0,0.8944591029023746,High Risk
+Karnataka,Tumkur,2942,26300.0,0.8881368821292775,High Risk
+Karnataka,Udupi,3591,27375.0,0.8688219178082192,High Risk
+Karnataka,Udupi *,2,1.0,0.0,Low Risk
+Karnataka,Uttara Kannada,3470,30631.0,0.88671607195325,High Risk
+Karnataka,Vijayanagara,2119,14692.0,0.855771848625102,High Risk
+Karnataka,Vijayapura,5596,31971.0,0.8249663757780489,High Risk
+Karnataka,Yadgir,6947,35433.0,0.8039398301018824,High Risk
+Kerala,Alappuzha,3559,36835.0,0.9033799375593865,High Risk
+Kerala,Ernakulam,6324,66207.0,0.9044813992478137,High Risk
+Kerala,Idukki,1698,15492.0,0.8903950426026336,High Risk
+Kerala,Kannur,5965,57710.0,0.8966383642349679,High Risk
+Kerala,Kasaragod,3555,28358.0,0.874638549968263,High Risk
+Kerala,Kasargod,315,1869.0,0.8314606741573034,High Risk
+Kerala,Kollam,5069,53100.0,0.9045386064030132,High Risk
+Kerala,Kottayam,3321,30210.0,0.8900695134061569,High Risk
+Kerala,Kozhikode,6704,89927.0,0.9254506432995652,High Risk
+Kerala,Malappuram,14567,152390.0,0.904409738171796,High Risk
+Kerala,Palakkad,6724,49996.0,0.8655092407392592,High Risk
+Kerala,Pathanamthitta,1951,21035.0,0.9072498217256952,High Risk
+Kerala,Thiruvananthapuram,6663,64938.0,0.8973944377714127,High Risk
+Kerala,Thrissur,7071,58820.0,0.8797857871472289,High Risk
+Kerala,Wayanad,1516,18065.0,0.9160808192637697,High Risk
+Ladakh,Kargil,492,2489.0,0.8023302531137003,High Risk
+Ladakh,Leh,125,3246.0,0.9614910659272952,High Risk
+Lakshadweep,Lakshadweep,203,1176.0,0.8273809523809523,High Risk
+Madhya Pradesh,Agar Malwa,2537,9884.0,0.7433225414811817,High Risk
+Madhya Pradesh,Alirajpur,7010,21594.0,0.6753727887376123,High Risk
+Madhya Pradesh,Anuppur,3226,26195.0,0.876846726474518,High Risk
+Madhya Pradesh,Ashok Nagar,5178,45017.0,0.8849767865473044,High Risk
+Madhya Pradesh,Ashoknagar,3011,,0.0,Low Risk
+Madhya Pradesh,Balaghat,6805,79292.0,0.9141779750794532,High Risk
+Madhya Pradesh,Barwani,21823,82759.0,0.7363066252613009,High Risk
+Madhya Pradesh,Betul,8166,48246.0,0.8307424449695311,High Risk
+Madhya Pradesh,Bhind,13967,58016.0,0.7592560672917816,High Risk
+Madhya Pradesh,Bhopal,12862,90864.0,0.8584477901038915,High Risk
+Madhya Pradesh,Burhanpur,9689,16543.0,0.4143142114489512,Medium Risk
+Madhya Pradesh,Chhatarpur,17836,79858.0,0.7766535600691227,High Risk
+Madhya Pradesh,Chhindwara,8981,89422.0,0.8995661023014471,High Risk
+Madhya Pradesh,Damoh,6066,55454.0,0.8906120388069391,High Risk
+Madhya Pradesh,Datia,5843,36445.0,0.839676224447798,High Risk
+Madhya Pradesh,Dewas,10442,47249.0,0.7790006137696036,High Risk
+Madhya Pradesh,Dhar,12712,87455.0,0.8546452461265794,High Risk
+Madhya Pradesh,Dindori,2659,47417.0,0.9439230655672016,High Risk
+Madhya Pradesh,East Nimar,3859,9607.0,0.598313729572187,Medium Risk
+Madhya Pradesh,Guna,9811,52953.0,0.8147224897550658,High Risk
+Madhya Pradesh,Gwalior,18542,81719.0,0.773100502943012,High Risk
+Madhya Pradesh,Harda,2134,10167.0,0.7901052424510672,High Risk
+Madhya Pradesh,Harda *,610,2094.0,0.7086914995224451,High Risk
+Madhya Pradesh,Hoshangabad,5982,12403.0,0.5176973312908167,Medium Risk
+Madhya Pradesh,Indore,22303,186687.0,0.8805326562642284,High Risk
+Madhya Pradesh,Jabalpur,12467,92051.0,0.8645642089711139,High Risk
+Madhya Pradesh,Jhabua,13488,41462.0,0.6746900776614732,High Risk
+Madhya Pradesh,Katni,10941,56942.0,0.8078571177689579,High Risk
+Madhya Pradesh,Khandwa,4521,17730.0,0.7450084602368867,High Risk
+Madhya Pradesh,Khargone,15039,40980.0,0.6330161054172767,High Risk
+Madhya Pradesh,Maihar,418,4017.0,0.8959422454568086,High Risk
+Madhya Pradesh,Mandla,4911,56981.0,0.9138133763886208,High Risk
+Madhya Pradesh,Mandsaur,8276,54055.0,0.8468966793081121,High Risk
+Madhya Pradesh,Mauganj,438,4086.0,0.8928046989720999,High Risk
+Madhya Pradesh,Morena,22381,110417.0,0.7973047628535461,High Risk
+Madhya Pradesh,Narmadapuram,737,5909.0,0.8752750042308344,High Risk
+Madhya Pradesh,Narsimhapur,1189,4286.0,0.7225851609892674,High Risk
+Madhya Pradesh,Narsinghpur,5174,26197.0,0.8024964690613429,High Risk
+Madhya Pradesh,Neemuch,4964,36976.0,0.8657507572479446,High Risk
+Madhya Pradesh,Niwari,142,1739.0,0.9183438757906843,High Risk
+Madhya Pradesh,Pandhurna,98,821.0,0.8806333739342266,High Risk
+Madhya Pradesh,Panna,9339,42825.0,0.7819264448336252,High Risk
+Madhya Pradesh,Raisen,7567,42813.0,0.8232546189241585,High Risk
+Madhya Pradesh,Rajgarh,8171,42280.0,0.8067407757805108,High Risk
+Madhya Pradesh,Ratlam,7982,79423.0,0.8995001447943292,High Risk
+Madhya Pradesh,Rewa,10838,83134.0,0.8696321601270238,High Risk
+Madhya Pradesh,Sagar,13841,87877.0,0.8424957611206573,High Risk
+Madhya Pradesh,Satna,13276,87053.0,0.8474952040710831,High Risk
+Madhya Pradesh,Sehore,6518,27869.0,0.7661200617173203,High Risk
+Madhya Pradesh,Seoni,6081,74283.0,0.9181373934816849,High Risk
+Madhya Pradesh,Shahdol,5297,54777.0,0.9032988298008289,High Risk
+Madhya Pradesh,Shajapur,7025,31225.0,0.7750200160128102,High Risk
+Madhya Pradesh,Sheopur,7230,38806.0,0.8136886048549193,High Risk
+Madhya Pradesh,Shivpuri,12741,68930.0,0.8151603075583926,High Risk
+Madhya Pradesh,Sidhi,6292,54093.0,0.8836818072578707,High Risk
+Madhya Pradesh,Singrauli,6550,56704.0,0.8844878668171557,High Risk
+Madhya Pradesh,Tikamgarh,7242,51168.0,0.8584662288930581,High Risk
+Madhya Pradesh,Ujjain,14308,76708.0,0.8134744746310685,High Risk
+Madhya Pradesh,Umaria,5300,29625.0,0.8210970464135021,High Risk
+Madhya Pradesh,Vidisha,10374,49297.0,0.7895612309065461,High Risk
+Madhya Pradesh,West Nimar,760,2059.0,0.6308887809616319,High Risk
+Maharashtra,Ahilyanagar,13,2418.0,0.9946236559139785,High Risk
+Maharashtra,Ahmadnagar,11836,227667.0,0.9480117891481857,High Risk
+Maharashtra,Ahmed Nagar,340,5595.0,0.9392314566577301,High Risk
+Maharashtra,Ahmednagar,368,,0.0,Low Risk
+Maharashtra,Akola,4708,62082.0,0.9241648142778905,High Risk
+Maharashtra,Amravati,6915,96191.0,0.9281117776091319,High Risk
+Maharashtra,Aurangabad,17393,155129.0,0.8878804092078206,High Risk
+Maharashtra,Beed,10185,171151.0,0.9404911452460109,High Risk
+Maharashtra,Bhandara,1903,37894.0,0.9497809679632659,High Risk
+Maharashtra,Bid,568,11918.0,0.9523409968115456,High Risk
+Maharashtra,Buldana,1075,22941.0,0.9531406651846039,High Risk
+Maharashtra,Buldhana,7084,114172.0,0.9379532634971797,High Risk
+Maharashtra,Chandrapur,4475,112071.0,0.9600699556531127,High Risk
+Maharashtra,Chatrapati Sambhaji Nagar,211,7640.0,0.9723821989528796,High Risk
+Maharashtra,Chhatrapati Sambhajinagar,1010,14738.0,0.9314696702401954,High Risk
+Maharashtra,Dharashiv,144,3188.0,0.9548306148055207,High Risk
+Maharashtra,Dhule,12605,61908.0,0.7963914195257479,High Risk
+Maharashtra,Gadchiroli,2374,52698.0,0.9549508520247447,High Risk
+Maharashtra,Gondia,29,975.0,0.9702564102564103,High Risk
+Maharashtra,Gondiya,2890,63618.0,0.9545726052375114,High Risk
+Maharashtra,Gondiya *,57,2008.0,0.9716135458167331,High Risk
+Maharashtra,Hingoli,8189,96551.0,0.9151847210282649,High Risk
+Maharashtra,Hingoli *,1,3.0,0.6666666666666667,High Risk
+Maharashtra,Jalgaon,13260,151076.0,0.9122296062908735,High Risk
+Maharashtra,Jalna,5590,79540.0,0.9297208951470958,High Risk
+Maharashtra,Kolhapur,7480,129934.0,0.9424323117890622,High Risk
+Maharashtra,Latur,7607,125627.0,0.9394477301853901,High Risk
+Maharashtra,Mumbai,14552,135483.0,0.8925916904703911,High Risk
+Maharashtra,Mumbai City,2929,51875.0,0.9435373493975904,High Risk
+Maharashtra,Mumbai Suburban,18216,192977.0,0.9056053312052732,High Risk
+Maharashtra,Mumbai( Sub Urban ),419,3641.0,0.8849217248008789,High Risk
+Maharashtra,Nagpur,11828,158901.0,0.9255637157727138,High Risk
+Maharashtra,Nanded,11947,236789.0,0.9495457981578537,High Risk
+Maharashtra,Nandurbar,10516,41044.0,0.7437871552480265,High Risk
+Maharashtra,Nandurbar *,140,600.0,0.7666666666666666,High Risk
+Maharashtra,Nashik,22368,246100.0,0.9091101178382771,High Risk
+Maharashtra,Osmanabad,4026,108833.0,0.9630075436678214,High Risk
+Maharashtra,Palghar,10699,122107.0,0.9123801256275235,High Risk
+Maharashtra,Parbhani,6272,116829.0,0.9463146992613135,High Risk
+Maharashtra,Pune,31763,438478.0,0.9275607898229785,High Risk
+Maharashtra,Raigad,3433,42361.0,0.9189584759566582,High Risk
+Maharashtra,Raigarh,5230,85867.0,0.9390918513515087,High Risk
+Maharashtra,Raigarh(Mh),88,853.0,0.8968347010550997,High Risk
+Maharashtra,Ratnagiri,2603,53009.0,0.950895131015488,High Risk
+Maharashtra,Sangli,7632,89884.0,0.9150905611677272,High Risk
+Maharashtra,Satara,6021,98223.0,0.9387007116459485,High Risk
+Maharashtra,Sindhudurg,1202,27892.0,0.956905205793776,High Risk
+Maharashtra,Solapur,12292,265546.0,0.9537104682427904,High Risk
+Maharashtra,Thane,43688,447253.0,0.9023192689596269,High Risk
+Maharashtra,Wardha,1953,30342.0,0.9356337749653945,High Risk
+Maharashtra,Washim,3386,53874.0,0.9371496454690574,High Risk
+Maharashtra,Washim *,32,995.0,0.9678391959798995,High Risk
+Maharashtra,Yavatmal,7594,196112.0,0.9612772293383373,High Risk
+Manipur,Bishnupur,1117,42055.0,0.9734395434549994,High Risk
+Manipur,Chandel,759,8989.0,0.9155634664590054,High Risk
+Manipur,Churachandpur,4638,19273.0,0.7593524619934624,High Risk
+Manipur,Imphal East,1132,56020.0,0.9797929310960372,High Risk
+Manipur,Imphal West,1236,59350.0,0.9791743892165122,High Risk
+Manipur,Jiribam,145,1997.0,0.927391086629945,High Risk
+Manipur,Kakching,109,3325.0,0.967218045112782,High Risk
+Manipur,Pherzawl,11,176.0,0.9375,High Risk
+Manipur,Senapati,1501,25510.0,0.9411603292826343,High Risk
+Manipur,Tamenglong,960,10431.0,0.907966637906241,High Risk
+Manipur,Thoubal,1067,59244.0,0.9819897373573695,High Risk
+Manipur,Ukhrul,781,15176.0,0.948537163943068,High Risk
+Meghalaya,East Garo Hills,6052,6345.0,0.04617809298660358,Low Risk
+Meghalaya,East Jaintia Hills,5133,3394.0,0.0,Low Risk
+Meghalaya,East Khasi Hills,28812,16360.0,0.0,Low Risk
+Meghalaya,Eastern West Khasi Hills,818,306.0,0.0,Low Risk
+Meghalaya,Jaintia Hills,4,25.0,0.84,High Risk
+Meghalaya,Kamrup,143,,0.0,Low Risk
+Meghalaya,North Garo Hills,3069,3832.0,0.1991127348643006,Low Risk
+Meghalaya,Ri Bhoi,9308,8216.0,0.0,Low Risk
+Meghalaya,South Garo Hills,4441,4004.0,0.0,Low Risk
+Meghalaya,South West Garo Hills,4956,7182.0,0.3099415204678363,Medium Risk
+Meghalaya,South West Khasi Hills,3446,4740.0,0.2729957805907173,Low Risk
+Meghalaya,West Garo Hills,15875,14970.0,0.0,Low Risk
+Meghalaya,West Jaintia Hills,11816,7460.0,0.0,Low Risk
+Meghalaya,West Khasi Hills,15898,10544.0,0.0,Low Risk
+Mizoram,Aizawl,1059,12892.0,0.9178560347502327,High Risk
+Mizoram,Champhai,1165,6469.0,0.819910341629309,High Risk
+Mizoram,Hnahthial,2,47.0,0.9574468085106383,High Risk
+Mizoram,Khawzawl,36,35.0,0.0,Low Risk
+Mizoram,Kolasib,275,3867.0,0.9288854409102664,High Risk
+Mizoram,Lawngtlai,1642,4395.0,0.6263936291240045,High Risk
+Mizoram,Lunglei,726,7323.0,0.9008603031544449,High Risk
+Mizoram,Mamit,171,1809.0,0.9054726368159204,High Risk
+Mizoram,Mammit,79,636.0,0.8757861635220126,High Risk
+Mizoram,Saiha,657,1851.0,0.6450567260940032,High Risk
+Mizoram,Saitual,12,127.0,0.905511811023622,High Risk
+Mizoram,Serchhip,102,2455.0,0.9584521384928717,High Risk
+Nagaland,Chumukedima,184,1837.0,0.8998366902558519,High Risk
+Nagaland,Dimapur,3196,8215.0,0.6109555690809495,High Risk
+Nagaland,Kiphire,908,1958.0,0.5362614913176711,Medium Risk
+Nagaland,Kohima,1621,3308.0,0.5099758162031439,Medium Risk
+Nagaland,Longleng,889,820.0,0.0,Low Risk
+Nagaland,Meluri,17,96.0,0.8229166666666666,High Risk
+Nagaland,Mokokchung,490,2696.0,0.8182492581602374,High Risk
+Nagaland,Mon,2223,4662.0,0.5231660231660231,Medium Risk
+Nagaland,Niuland,31,373.0,0.9168900804289544,High Risk
+Nagaland,Noklak,354,447.0,0.20805369127516782,Low Risk
+Nagaland,Peren,1454,1804.0,0.1940133037694013,Low Risk
+Nagaland,Phek,1043,1468.0,0.2895095367847411,Low Risk
+Nagaland,Shamator,247,433.0,0.4295612009237876,Medium Risk
+Nagaland,Tseminyu,32,91.0,0.6483516483516483,High Risk
+Nagaland,Tuensang,1579,4239.0,0.6275064873790989,High Risk
+Nagaland,Wokha,558,1905.0,0.7070866141732284,High Risk
+Nagaland,Zunheboto,761,2439.0,0.6879868798687987,High Risk
+Odisha,Angul,3010,29464.0,0.8978414336139017,High Risk
+Odisha,Anugal,3,11.0,0.7272727272727273,High Risk
+Odisha,Anugul,156,1603.0,0.9026824703680599,High Risk
+Odisha,Balangir,5234,37804.0,0.8615490424293726,High Risk
+Odisha,Baleshwar,845,10283.0,0.9178255372945638,High Risk
+Odisha,Baleswar,6015,43208.0,0.8607896685798926,High Risk
+Odisha,Bargarh,5150,34705.0,0.8516063967727994,High Risk
+Odisha,Baudh,171,1126.0,0.8481349911190054,High Risk
+Odisha,Bhadrak,4520,40043.0,0.8871213445546038,High Risk
+Odisha,Boudh,1424,9187.0,0.8449983672580821,High Risk
+Odisha,Cuttack,5080,48636.0,0.895550620939222,High Risk
+Odisha,Debagarh,876,7982.0,0.8902530694061639,High Risk
+Odisha,Dhenkanal,2891,29303.0,0.9013411596082312,High Risk
+Odisha,Gajapati,1994,21324.0,0.9064903395235415,High Risk
+Odisha,Ganjam,7714,94585.0,0.9184437278638262,High Risk
+Odisha,Jagatsinghapur,3149,15608.0,0.7982444900051255,High Risk
+Odisha,Jagatsinghpur,694,5173.0,0.8658418712545911,High Risk
+Odisha,Jajapur,2497,26249.0,0.9048725665739648,High Risk
+Odisha,Jajpur,2507,18971.0,0.8678509303674029,High Risk
+Odisha,Jharsuguda,1157,16671.0,0.9305980445084279,High Risk
+Odisha,Kalahandi,4485,47377.0,0.9053338117652026,High Risk
+Odisha,Kandhamal,3049,31772.0,0.9040349993705149,High Risk
+Odisha,Kendrapara,3962,39680.0,0.9001512096774194,High Risk
+Odisha,Kendujhar,5377,54065.0,0.9005456395079996,High Risk
+Odisha,Khorda,4315,37593.0,0.885217992711409,High Risk
+Odisha,Khordha,496,4608.0,0.8923611111111112,High Risk
+Odisha,Koraput,4383,41430.0,0.8942070963070239,High Risk
+Odisha,Malkangiri,2823,20854.0,0.8646302867555385,High Risk
+Odisha,Mayurbhanj,8122,71471.0,0.8863595024555414,High Risk
+Odisha,Nabarangapur,6229,41822.0,0.851059251111855,High Risk
+Odisha,Nabarangpur,442,,0.0,Low Risk
+Odisha,Nayagarh,2362,22895.0,0.8968333697313824,High Risk
+Odisha,Nuapada,2120,18243.0,0.8837910431398345,High Risk
+Odisha,Puri,3511,30837.0,0.8861432694490385,High Risk
+Odisha,Rayagada,3045,31473.0,0.9032504051091412,High Risk
+Odisha,Sambalpur,2552,30078.0,0.9151539331072545,High Risk
+Odisha,Sonapur,1488,13163.0,0.8869558611258832,High Risk
+Odisha,Subarnapur,399,4309.0,0.9074031097702483,High Risk
+Odisha,Sundargarh,591,7024.0,0.9158599088838268,High Risk
+Odisha,Sundergarh,4000,42675.0,0.9062683069712947,High Risk
+Orissa,Anugul,51,210.0,0.7571428571428571,High Risk
+Orissa,Balangir,436,4790.0,0.9089770354906055,High Risk
+Orissa,Baleshwar,384,2004.0,0.8083832335329342,High Risk
+Orissa,Baleswar,3,6.0,0.5,Medium Risk
+Orissa,Bargarh,89,766.0,0.8838120104438643,High Risk
+Orissa,Baudh,4,4.0,0.0,Low Risk
+Orissa,Bhadrak,371,2607.0,0.8576908323743767,High Risk
+Orissa,Cuttack,322,2035.0,0.8417690417690418,High Risk
+Orissa,Debagarh,7,7.0,0.0,Low Risk
+Orissa,Dhenkanal,126,680.0,0.8147058823529412,High Risk
+Orissa,Gajapati,8,64.0,0.875,High Risk
+Orissa,Ganjam,402,4254.0,0.9055007052186178,High Risk
+Orissa,Jagatsinghapur,35,81.0,0.5679012345679013,Medium Risk
+Orissa,Jajapur,111,484.0,0.7706611570247934,High Risk
+Orissa,Jharsuguda,25,115.0,0.782608695652174,High Risk
+Orissa,Kalahandi,11,18.0,0.38888888888888884,Medium Risk
+Orissa,Kandhamal,32,273.0,0.8827838827838828,High Risk
+Orissa,Kendrapara,53,239.0,0.7782426778242678,High Risk
+Orissa,Kendrapara *,1,,0.0,Low Risk
+Orissa,Kendujhar,49,373.0,0.868632707774799,High Risk
+Orissa,Khorda,2,5.0,0.6,Medium Risk
+Orissa,Khordha,726,4048.0,0.8206521739130435,High Risk
+Orissa,Koraput,119,830.0,0.8566265060240964,High Risk
+Orissa,Malkangiri,47,218.0,0.7844036697247706,High Risk
+Orissa,Mayurbhanj,32,50.0,0.36,Medium Risk
+Orissa,Nabarangapur,3,14.0,0.7857142857142857,High Risk
+Orissa,Nayagarh,104,617.0,0.8314424635332253,High Risk
+Orissa,Nuapada,2,2.0,0.0,Low Risk
+Orissa,Puri,220,2026.0,0.8914116485686081,High Risk
+Orissa,Rayagada,181,898.0,0.7984409799554566,High Risk
+Orissa,Sambalpur,25,242.0,0.8966942148760331,High Risk
+Orissa,Sonapur,22,104.0,0.7884615384615384,High Risk
+Orissa,Subarnapur,6,51.0,0.8823529411764706,High Risk
+Orissa,Sundargarh,139,636.0,0.7814465408805031,High Risk
+Orissa,Sundergarh,1,1.0,0.0,Low Risk
+Pondicherry,Karaikal,162,904.0,0.8207964601769911,High Risk
+Pondicherry,Pondicherry,1084,6327.0,0.8286707760391971,High Risk
+Pondicherry,Yanam,26,228.0,0.8859649122807017,High Risk
+Puducherry,Karaikal,405,5418.0,0.925249169435216,High Risk
+Puducherry,Pondicherry,3,27.0,0.8888888888888888,High Risk
+Puducherry,Puducherry,1330,19774.0,0.9327399615656923,High Risk
+Puducherry,Yanam,7,85.0,0.9176470588235294,High Risk
+Punjab,Amritsar,9655,99075.0,0.9025485743123896,High Risk
+Punjab,Barnala,1013,13504.0,0.9249851895734598,High Risk
+Punjab,Bathinda,2704,37420.0,0.9277391769107429,High Risk
+Punjab,Faridkot,902,14722.0,0.9387311506588779,High Risk
+Punjab,Fatehgarh Sahib,1048,15346.0,0.9317085885572788,High Risk
+Punjab,Fazilka,1911,31662.0,0.9396437369717643,High Risk
+Punjab,Ferozepur,1381,28195.0,0.9510196843411952,High Risk
+Punjab,Firozpur,395,6524.0,0.9394543225015328,High Risk
+Punjab,Gurdaspur,5120,71972.0,0.9288612238092592,High Risk
+Punjab,Hoshiarpur,4134,46549.0,0.9111903585469076,High Risk
+Punjab,Jalandhar,4118,51131.0,0.919461774657253,High Risk
+Punjab,Kapurthala,3726,13872.0,0.731401384083045,High Risk
+Punjab,Ludhiana,17614,119703.0,0.8528524765461183,High Risk
+Punjab,Malerkotla,865,15099.0,0.9427114378435658,High Risk
+Punjab,Mansa,1124,23555.0,0.952281893440883,High Risk
+Punjab,Moga,1535,24046.0,0.936164018963653,High Risk
+Punjab,Muktsar,334,3551.0,0.9059419881723458,High Risk
+Punjab,Nawanshahr,192,2958.0,0.9350912778904665,High Risk
+Punjab,Pathankot,1115,14496.0,0.923082229580574,High Risk
+Punjab,Patiala,5150,89052.0,0.9421686205812334,High Risk
+Punjab,Rupnagar,1246,13705.0,0.9090842758117476,High Risk
+Punjab,S.A.S Nagar,705,,0.0,Low Risk
+Punjab,S.A.S Nagar(Mohali),277,2321.0,0.8806548901335631,High Risk
+Punjab,Sangrur,2329,29915.0,0.9221460805615912,High Risk
+Punjab,Sas Nagar (Mohali),2953,58072.0,0.949149331863893,High Risk
+Punjab,Shaheed Bhagat Singh Nagar,946,6344.0,0.8508827238335435,High Risk
+Punjab,Sri Muktsar Sahib,1315,21691.0,0.939375777972431,High Risk
+Punjab,Tarn Taran,2939,27415.0,0.8927959146452672,High Risk
+Rajasthan,Ajmer,12135,124036.0,0.9021655003386113,High Risk
+Rajasthan,Alwar,23383,144744.0,0.8384527165202011,High Risk
+Rajasthan,Balotra,1,503.0,0.9980119284294234,High Risk
+Rajasthan,Banswara,7263,101294.0,0.9282978261298793,High Risk
+Rajasthan,Baran,6267,78758.0,0.9204271312120673,High Risk
+Rajasthan,Barmer,15851,111721.0,0.8581197805247,High Risk
+Rajasthan,Beawar,1,510.0,0.9980392156862745,High Risk
+Rajasthan,Bharatpur,17054,105063.0,0.8376783453737282,High Risk
+Rajasthan,Bhilwara,11083,97739.0,0.886606165399687,High Risk
+Rajasthan,Bikaner,13283,81652.0,0.8373218047322785,High Risk
+Rajasthan,Bundi,4872,48701.0,0.8999609864273834,High Risk
+Rajasthan,Chittaurgarh,357,2065.0,0.8271186440677967,High Risk
+Rajasthan,Chittorgarh,5986,61824.0,0.9031767598343685,High Risk
+Rajasthan,Churu,12780,76097.0,0.8320564542623231,High Risk
+Rajasthan,Dausa,6133,50267.0,0.8779915252551376,High Risk
+Rajasthan,Deeg,69,1299.0,0.9468822170900693,High Risk
+Rajasthan,Dhaulpur,139,488.0,0.7151639344262295,High Risk
+Rajasthan,Dholpur,8580,77555.0,0.8893688350203082,High Risk
+Rajasthan,Didwana-Kuchaman,2,720.0,0.9972222222222222,High Risk
+Rajasthan,Dungarpur,6571,95308.0,0.9310551055525245,High Risk
+Rajasthan,Ganganagar,5504,69218.0,0.920483111329423,High Risk
+Rajasthan,Hanumangarh,4940,77237.0,0.9360410166112096,High Risk
+Rajasthan,Jaipur,31146,275340.0,0.886881673567226,High Risk
+Rajasthan,Jaisalmer,2854,21384.0,0.8665357276468387,High Risk
+Rajasthan,Jalor,13991,66690.0,0.7902084270505323,High Risk
+Rajasthan,Jalore,494,1036.0,0.5231660231660231,Medium Risk
+Rajasthan,Jhalawar,7036,81092.0,0.9132343511073842,High Risk
+Rajasthan,Jhunjhunu,311,2742.0,0.886579139314369,High Risk
+Rajasthan,Jhunjhunun,7611,54652.0,0.8607370270072459,High Risk
+Rajasthan,Jodhpur,22215,139970.0,0.8412874187325856,High Risk
+Rajasthan,Karauli,8636,58446.0,0.852239674229203,High Risk
+Rajasthan,Kota,7525,93066.0,0.9191434036060431,High Risk
+Rajasthan,Nagaur,17267,103427.0,0.8330513308903864,High Risk
+Rajasthan,Pali,9114,66337.0,0.8626106094637984,High Risk
+Rajasthan,Pratapgarh,3794,48556.0,0.921863415437845,High Risk
+Rajasthan,Rajsamand,4512,47170.0,0.9043459826160696,High Risk
+Rajasthan,Salumbar,1,213.0,0.9953051643192489,High Risk
+Rajasthan,Sawai Madhopur,6744,45155.0,0.850647768796368,High Risk
+Rajasthan,Sikar,11400,78337.0,0.8544748969197187,High Risk
+Rajasthan,Sirohi,10732,41293.0,0.7401012278110091,High Risk
+Rajasthan,Tonk,5915,56628.0,0.8955463728191001,High Risk
+Rajasthan,Udaipur,14906,127492.0,0.883082860101026,High Risk
+Sikkim,East,370,5867.0,0.9369354013976479,High Risk
+Sikkim,East Sikkim,339,3513.0,0.9035012809564474,High Risk
+Sikkim,Mangan,3,67.0,0.9552238805970149,High Risk
+Sikkim,Namchi,24,282.0,0.9148936170212766,High Risk
+Sikkim,North,44,443.0,0.9006772009029346,High Risk
+Sikkim,North Sikkim,62,446.0,0.8609865470852018,High Risk
+Sikkim,South,197,3739.0,0.9473121155389141,High Risk
+Sikkim,South Sikkim,459,1409.0,0.674237047551455,High Risk
+Sikkim,West,208,2553.0,0.918527222875049,High Risk
+Sikkim,West Sikkim,501,2021.0,0.752102919346858,High Risk
+Tamil Nadu,Ariyalur,2412,23351.0,0.8967067791529271,High Risk
+Tamil Nadu,Chengalpattu,1253,21533.0,0.9418102447406307,High Risk
+Tamil Nadu,Chennai,10043,148368.0,0.9323102016607354,High Risk
+Tamil Nadu,Coimbatore,8986,117738.0,0.9236779969083898,High Risk
+Tamil Nadu,Cuddalore,8630,81595.0,0.8942337153011827,High Risk
+Tamil Nadu,Dharmapuri,5739,41380.0,0.8613098115031417,High Risk
+Tamil Nadu,Dindigul,6083,57577.0,0.894350174548865,High Risk
+Tamil Nadu,Erode,6017,68409.0,0.9120437369351986,High Risk
+Tamil Nadu,Kallakurichi,1064,10790.0,0.9013901760889713,High Risk
+Tamil Nadu,Kancheepuram,13050,141293.0,0.9076387365262256,High Risk
+Tamil Nadu,Kanchipuram,387,8.0,0.0,Low Risk
+Tamil Nadu,Kanniyakumari,2275,38678.0,0.9411810331454573,High Risk
+Tamil Nadu,Kanyakumari,2005,20696.0,0.9031213761113258,High Risk
+Tamil Nadu,Karur,4019,27344.0,0.8530207723815096,High Risk
+Tamil Nadu,Krishnagiri,5075,61909.0,0.9180248429146005,High Risk
+Tamil Nadu,Madurai,9938,106052.0,0.9062912533474144,High Risk
+Tamil Nadu,Mayiladuthurai,502,3602.0,0.8606329816768462,High Risk
+Tamil Nadu,Nagapattinam,4047,38029.0,0.8935812143364275,High Risk
+Tamil Nadu,Namakkal,4872,45816.0,0.893661602933473,High Risk
+Tamil Nadu,Namakkal   *,1,,0.0,Low Risk
+Tamil Nadu,Perambalur,2130,15661.0,0.8639933593001724,High Risk
+Tamil Nadu,Pudukkottai,7045,52057.0,0.8646675759263884,High Risk
+Tamil Nadu,Ramanathapuram,4005,38291.0,0.8954062312292705,High Risk
+Tamil Nadu,Ranipet,111,1390.0,0.9201438848920863,High Risk
+Tamil Nadu,Salem,10249,106371.0,0.903648550826823,High Risk
+Tamil Nadu,Sivaganga,4446,34296.0,0.8703638908327502,High Risk
+Tamil Nadu,Tenkasi,1268,10020.0,0.8734530938123752,High Risk
+Tamil Nadu,Thanjavur,7372,76835.0,0.9040541419925815,High Risk
+Tamil Nadu,The Nilgiris,1714,15273.0,0.8877758135271394,High Risk
+Tamil Nadu,Theni,3473,38776.0,0.9104342892510832,High Risk
+Tamil Nadu,Thiruvallur,605,1823.0,0.6681294569391114,High Risk
+Tamil Nadu,Thiruvarur,4165,37780.0,0.8897564849126522,High Risk
+Tamil Nadu,Thoothukkudi,5319,44695.0,0.8809933997091397,High Risk
+Tamil Nadu,Tiruchirappalli,9932,73681.0,0.8652026981175609,High Risk
+Tamil Nadu,Tirunelveli,9675,79890.0,0.8788959819752159,High Risk
+Tamil Nadu,Tirupathur,4,93.0,0.956989247311828,High Risk
+Tamil Nadu,Tirupattur,1048,9352.0,0.8879384088964928,High Risk
+Tamil Nadu,Tiruppur,6192,85946.0,0.9279547622926023,High Risk
+Tamil Nadu,Tiruvallur,11435,148408.0,0.9229488976335507,High Risk
+Tamil Nadu,Tiruvannamalai,7266,65218.0,0.8885890398356282,High Risk
+Tamil Nadu,Tiruvarur,1,2.0,0.5,Medium Risk
+Tamil Nadu,Tuticorin,2,4.0,0.5,Medium Risk
+Tamil Nadu,Vellore,9633,89400.0,0.892248322147651,High Risk
+Tamil Nadu,Villupuram,6772,39568.0,0.8288515972503032,High Risk
+Tamil Nadu,Viluppuram,5122,35788.0,0.8568794009165084,High Risk
+Tamil Nadu,Virudhunagar,5407,57442.0,0.9058702691410466,High Risk
+Telangana,Adilabad,2987,46010.0,0.9350793305803087,High Risk
+Telangana,Bhadradri Kothagudem,3211,33729.0,0.9048000237184619,High Risk
+Telangana,Hanumakonda,1030,18975.0,0.9457180500658762,High Risk
+Telangana,Hyderabad,25990,216457.0,0.8799299629949597,High Risk
+Telangana,Jagitial,1595,16299.0,0.9021412356586294,High Risk
+Telangana,Jangaon,81,802.0,0.899002493765586,High Risk
+Telangana,Jangoan,1022,16900.0,0.9395266272189349,High Risk
+Telangana,Jayashankar Bhupalpally,847,16261.0,0.9479121825226001,High Risk
+Telangana,Jogulamba Gadwal,1844,33576.0,0.945079818918275,High Risk
+Telangana,K.V. Rangareddy,17409,197330.0,0.9117772259666548,High Risk
+Telangana,Kamareddy,2008,24445.0,0.9178564123542646,High Risk
+Telangana,Karimnagar,5808,77995.0,0.9255336880569267,High Risk
+Telangana,Khammam,3888,53808.0,0.927743086529884,High Risk
+Telangana,Komaram Bheem,1106,27458.0,0.9597203000946901,High Risk
+Telangana,Mahabubabad,1503,23410.0,0.9357966680905596,High Risk
+Telangana,Mahabubnagar,10168,96426.0,0.8945512621077303,High Risk
+Telangana,Mancherial,1094,27123.0,0.9596652287726284,High Risk
+Telangana,Medak,7544,54969.0,0.862759009623606,High Risk
+Telangana,Medchal Malkajgiri,704,,0.0,Low Risk
+Telangana,Medchal-Malkajgiri,4070,85252.0,0.9522591845352602,High Risk
+Telangana,Medchal?Malkajgiri,2,350.0,0.9942857142857143,High Risk
+Telangana,Medchal−Malkajgiri,535,1677.0,0.6809779367918902,High Risk
+Telangana,Mulugu,937,11698.0,0.9199008377500427,High Risk
+Telangana,Nagarkurnool,1361,20170.0,0.932523549826475,High Risk
+Telangana,Nalgonda,6661,77441.0,0.9139861313774358,High Risk
+Telangana,Narayanpet,1310,16732.0,0.9217069089170452,High Risk
+Telangana,Nirmal,1401,33846.0,0.9586066300301365,High Risk
+Telangana,Nizamabad,6577,66975.0,0.9017991787980589,High Risk
+Telangana,Peddapalli,588,9927.0,0.9407676035055909,High Risk
+Telangana,Rajanna Sircilla,888,11165.0,0.9204657411553964,High Risk
+Telangana,Ranga Reddy,284,,0.0,Low Risk
+Telangana,Rangareddy,300,5562.0,0.9460625674217907,High Risk
+Telangana,Sangareddy,2703,37288.0,0.927510190946149,High Risk
+Telangana,Siddipet,1876,35961.0,0.9478323739606797,High Risk
+Telangana,Suryapet,2042,45789.0,0.9554041363646291,High Risk
+Telangana,Vikarabad,2593,60549.0,0.957175180432377,High Risk
+Telangana,Wanaparthy,1667,25180.0,0.9337966640190627,High Risk
+Telangana,Warangal,2952,29101.0,0.8985601869351568,High Risk
+Telangana,Warangal (Urban),7,121.0,0.9421487603305785,High Risk
+Telangana,Warangal Rural,732,17700.0,0.9586440677966102,High Risk
+Telangana,Warangal Urban,663,15578.0,0.9574399794582102,High Risk
+Telangana,Yadadri.,1586,39872.0,0.9602227126805778,High Risk
+The Dadra And Nagar Haveli And Daman And Diu,Dadra And Nagar Haveli,716,,0.0,Low Risk
+Tripura,Dhalai,1420,15425.0,0.9079416531604538,High Risk
+Tripura,Dhalai  *,32,392.0,0.9183673469387755,High Risk
+Tripura,Gomati,679,9761.0,0.9304374551787726,High Risk
+Tripura,Khowai,339,3511.0,0.903446311592139,High Risk
+Tripura,North Tripura,1488,14931.0,0.9003415712276471,High Risk
+Tripura,Sepahijala,1728,15325.0,0.8872430668841762,High Risk
+Tripura,South Tripura,2158,30679.0,0.9296587242087422,High Risk
+Tripura,Unakoti,639,3643.0,0.8245951139171013,High Risk
+Tripura,West Tripura,2802,44346.0,0.9368150453253957,High Risk
+Uttar Pradesh,Agra,29910,175953.0,0.8300114235051406,High Risk
+Uttar Pradesh,Aligarh,26192,186462.0,0.8595317008291233,High Risk
+Uttar Pradesh,Allahabad,13249,186295.0,0.9288816124963096,High Risk
+Uttar Pradesh,Ambedkar Nagar,8002,75756.0,0.8943714029251808,High Risk
+Uttar Pradesh,Amethi,7197,76280.0,0.9056502359727321,High Risk
+Uttar Pradesh,Amroha,8142,90302.0,0.9098358840335762,High Risk
+Uttar Pradesh,Auraiya,3733,51799.0,0.9279329716789899,High Risk
+Uttar Pradesh,Ayodhya,1693,15277.0,0.8891798127904693,High Risk
+Uttar Pradesh,Azamgarh,20573,159789.0,0.8712489595654269,High Risk
+Uttar Pradesh,Baghpat,6839,54908.0,0.875446200917899,High Risk
+Uttar Pradesh,Bagpat,1,10.0,0.9,High Risk
+Uttar Pradesh,Bahraich,39338,129697.0,0.6966930615203127,High Risk
+Uttar Pradesh,Ballia,9976,104948.0,0.9049434005412205,High Risk
+Uttar Pradesh,Balrampur,12324,78076.0,0.8421537988626466,High Risk
+Uttar Pradesh,Banda,10591,69435.0,0.8474688557643839,High Risk
+Uttar Pradesh,Bara Banki,9086,109967.0,0.9173752125637691,High Risk
+Uttar Pradesh,Barabanki,2375,4960.0,0.5211693548387097,Medium Risk
+Uttar Pradesh,Bareilly,27811,241742.0,0.8849558620347312,High Risk
+Uttar Pradesh,Basti,10119,84810.0,0.8806862398302087,High Risk
+Uttar Pradesh,Bhadohi,546,11780.0,0.9536502546689304,High Risk
+Uttar Pradesh,Bijnor,16851,226859.0,0.9257203813822683,High Risk
+Uttar Pradesh,Budaun,15529,171339.0,0.9093668108253229,High Risk
+Uttar Pradesh,Bulandshahar,185,663.0,0.7209653092006033,High Risk
+Uttar Pradesh,Bulandshahr,16885,174757.0,0.9033801221124189,High Risk
+Uttar Pradesh,Chandauli,9566,93603.0,0.8978024208625792,High Risk
+Uttar Pradesh,Chitrakoot,5401,44546.0,0.8787545458627037,High Risk
+Uttar Pradesh,Deoria,10257,109251.0,0.9061152758327154,High Risk
+Uttar Pradesh,Etah,11264,61891.0,0.8180026175049684,High Risk
+Uttar Pradesh,Etawah,7154,62080.0,0.8847615979381444,High Risk
+Uttar Pradesh,Faizabad,6926,69979.0,0.9010274510924706,High Risk
+Uttar Pradesh,Farrukhabad,5870,70138.0,0.916307850238102,High Risk
+Uttar Pradesh,Fatehpur,12333,107120.0,0.8848674383868559,High Risk
+Uttar Pradesh,Firozabad,12300,139201.0,0.9116385658149008,High Risk
+Uttar Pradesh,Gautam Buddha Nagar,18957,153991.0,0.8768954029780961,High Risk
+Uttar Pradesh,Ghaziabad,23070,239761.0,0.9037791801001831,High Risk
+Uttar Pradesh,Ghazipur,11288,127840.0,0.9117021276595745,High Risk
+Uttar Pradesh,Gonda,15267,125916.0,0.8787525016677785,High Risk
+Uttar Pradesh,Gorakhpur,19969,158865.0,0.8743020803827148,High Risk
+Uttar Pradesh,Hamirpur,3465,42440.0,0.9183553251649388,High Risk
+Uttar Pradesh,Hapur,7262,44282.0,0.8360056004697168,High Risk
+Uttar Pradesh,Hardoi,25193,143951.0,0.824989058776945,High Risk
+Uttar Pradesh,Hathras,6493,60658.0,0.8929572356490487,High Risk
+Uttar Pradesh,Jalaun,5557,60673.0,0.90841066042556,High Risk
+Uttar Pradesh,Jaunpur,15853,155741.0,0.898209206310477,High Risk
+Uttar Pradesh,Jhansi,7160,71841.0,0.9003354630364276,High Risk
+Uttar Pradesh,Jyotiba Phule Nagar,84,605.0,0.8611570247933884,High Risk
+Uttar Pradesh,Kannauj,6638,59687.0,0.8887865029235847,High Risk
+Uttar Pradesh,Kanpur Dehat,8017,72089.0,0.8887902453911137,High Risk
+Uttar Pradesh,Kanpur Nagar,24708,170125.0,0.854765613519471,High Risk
+Uttar Pradesh,Kasganj,6341,49707.0,0.8724324541815036,High Risk
+Uttar Pradesh,Kaushambi,7463,77012.0,0.90309302446372,High Risk
+Uttar Pradesh,Kheri,24578,183098.0,0.8657658740128238,High Risk
+Uttar Pradesh,Kushi Nagar,1570,,0.0,Low Risk
+Uttar Pradesh,Kushinagar,10611,167255.0,0.9365579504349646,High Risk
+Uttar Pradesh,Kushinagar *,6,140.0,0.9571428571428572,High Risk
+Uttar Pradesh,Lalitpur,4753,46802.0,0.8984445109183368,High Risk
+Uttar Pradesh,Lucknow,25514,209476.0,0.8782008440107697,High Risk
+Uttar Pradesh,Maharajganj,17871,108898.0,0.835892302888942,High Risk
+Uttar Pradesh,Mahoba,3020,32304.0,0.9065131253095592,High Risk
+Uttar Pradesh,Mahrajganj,19,44.0,0.5681818181818181,Medium Risk
+Uttar Pradesh,Mainpuri,11726,69441.0,0.8311372244063305,High Risk
+Uttar Pradesh,Mathura,11746,109289.0,0.8925234927577341,High Risk
+Uttar Pradesh,Mau,7579,87700.0,0.9135803876852908,High Risk
+Uttar Pradesh,Meerut,24027,167219.0,0.8563141748246312,High Risk
+Uttar Pradesh,Mirzapur,7645,87276.0,0.9124043265044227,High Risk
+Uttar Pradesh,Moradabad,21545,163505.0,0.8682303293477264,High Risk
+Uttar Pradesh,Muzaffarnagar,11949,135633.0,0.9119019707593284,High Risk
+Uttar Pradesh,Pilibhit,13635,136263.0,0.8999361528808261,High Risk
+Uttar Pradesh,Pratapgarh,10308,104730.0,0.9015754798052134,High Risk
+Uttar Pradesh,Prayagraj,2865,29027.0,0.9012987907809971,High Risk
+Uttar Pradesh,Rae Bareli,9729,108253.0,0.9101272020174961,High Risk
+Uttar Pradesh,Raebareli,3,14.0,0.7857142857142857,High Risk
+Uttar Pradesh,Rampur,20110,155518.0,0.8706902094934348,High Risk
+Uttar Pradesh,Saharanpur,19166,167814.0,0.8857902201246618,High Risk
+Uttar Pradesh,Sambhal,8677,99589.0,0.9128719035234815,High Risk
+Uttar Pradesh,Sant Kabir Nagar,6169,79206.0,0.9221144862762922,High Risk
+Uttar Pradesh,Sant Ravidas Nagar,4420,49163.0,0.9100949901348575,High Risk
+Uttar Pradesh,Sant Ravidas Nagar Bhadohi,84,297.0,0.7171717171717171,High Risk
+Uttar Pradesh,Shahjahanpur,24291,149472.0,0.83748795761079,High Risk
+Uttar Pradesh,Shamli,8200,75614.0,0.8915544740391991,High Risk
+Uttar Pradesh,Shravasti,2535,,0.0,Low Risk
+Uttar Pradesh,Shrawasti,5117,62721.0,0.9184164793290923,High Risk
+Uttar Pradesh,Siddharth Nagar,4341,,0.0,Low Risk
+Uttar Pradesh,Siddharthnagar,14013,93643.0,0.850357207693047,High Risk
+Uttar Pradesh,Sitapur,30854,169322.0,0.817779142698527,High Risk
+Uttar Pradesh,Sonbhadra,5034,72077.0,0.9301580254450101,High Risk
+Uttar Pradesh,Sultanpur,11434,82621.0,0.8616090340228271,High Risk
+Uttar Pradesh,Unnao,19148,124543.0,0.8462539042740258,High Risk
+Uttar Pradesh,Varanasi,23334,159498.0,0.8537034947146673,High Risk
+Uttarakhand,Almora,1367,15786.0,0.9134042822754339,High Risk
+Uttarakhand,Bageshwar,742,6928.0,0.8928983833718245,High Risk
+Uttarakhand,Chamoli,1090,11790.0,0.90754877014419,High Risk
+Uttarakhand,Champawat,866,12505.0,0.9307477009196321,High Risk
+Uttarakhand,Dehradun,9485,82622.0,0.8852000677785578,High Risk
+Uttarakhand,Garhwal,56,404.0,0.8613861386138614,High Risk
+Uttarakhand,Hardwar,146,1187.0,0.8770008424599831,High Risk
+Uttarakhand,Haridwar,5955,68900.0,0.9135703918722786,High Risk
+Uttarakhand,Nainital,3951,49100.0,0.9195315682281059,High Risk
+Uttarakhand,Pauri Garhwal,1856,21130.0,0.9121628017037388,High Risk
+Uttarakhand,Pithoragarh,1220,14702.0,0.917018092776493,High Risk
+Uttarakhand,Rudraprayag,956,7834.0,0.8779678325248915,High Risk
+Uttarakhand,Tehri Garhwal,2781,25866.0,0.8924843423799582,High Risk
+Uttarakhand,Udham Singh Nagar,6095,134862.0,0.95480565318622,High Risk
+Uttarakhand,Uttarkashi,1132,10021.0,0.8870372218341482,High Risk
+West  Bengal,Hooghly,15,107.0,0.8598130841121495,High Risk
+West Bangal,Hooghly,6,93.0,0.935483870967742,High Risk
+West Bangal,Howrah,4,51.0,0.9215686274509804,High Risk
+West Bengal,24 Paraganas North,6147,,0.0,Low Risk
+West Bengal,24 Paraganas South,490,,0.0,Low Risk
+West Bengal,Alipurduar,3673,10834.0,0.6609747092486616,High Risk
+West Bengal,Bankura,11355,145827.0,0.9221337612376309,High Risk
+West Bengal,Barddhaman,15836,170401.0,0.9070662730852519,High Risk
+West Bengal,Bardhaman,1776,23249.0,0.923609617617962,High Risk
+West Bengal,Birbhum,15509,151363.0,0.8975377073657367,High Risk
+West Bengal,Burdwan,2,,0.0,Low Risk
+West Bengal,Cooch Behar,10728,122859.0,0.9126803897150392,High Risk
+West Bengal,Coochbehar,4410,,0.0,Low Risk
+West Bengal,Dakshin Dinajpur,6526,84278.0,0.9225657941574313,High Risk
+West Bengal,Darjeeling,7319,53637.0,0.8635456867460894,High Risk
+West Bengal,Darjiling,726,8271.0,0.9122234312658687,High Risk
+West Bengal,Dinajpur Dakshin,997,,0.0,Low Risk
+West Bengal,Dinajpur Uttar,11671,,0.0,Low Risk
+West Bengal,East Midnapore,2118,25251.0,0.9161221337768801,High Risk
+West Bengal,East Midnapur,1,20.0,0.95,High Risk
+West Bengal,Haora,2862,39895.0,0.9282616869281864,High Risk
+West Bengal,Hawrah,6,32.0,0.8125,High Risk
+West Bengal,Hooghiy,1,32.0,0.96875,High Risk
+West Bengal,Hooghly,15343,181833.0,0.9156203769392794,High Risk
+West Bengal,Howrah,11410,107784.0,0.894140132116084,High Risk
+West Bengal,Hugli,194,1264.0,0.8465189873417721,High Risk
+West Bengal,Jalpaiguri,10654,187511.0,0.9431819999893339,High Risk
+West Bengal,Jhargram,962,7258.0,0.8674565996142187,High Risk
+West Bengal,Kalimpong,513,2381.0,0.7845443091138178,High Risk
+West Bengal,Koch Bihar,3348,71087.0,0.9529027810992164,High Risk
+West Bengal,Kolkata,10362,106499.0,0.9027033117681856,High Risk
+West Bengal,Malda,15830,196468.0,0.9194270822729401,High Risk
+West Bengal,Maldah,1756,22566.0,0.922183816360897,High Risk
+West Bengal,Medinipur,29,178.0,0.8370786516853932,High Risk
+West Bengal,Medinipur West,645,,0.0,Low Risk
+West Bengal,Murshidabad,35911,371953.0,0.903452855602724,High Risk
+West Bengal,Nadia,17716,192343.0,0.9078937107147128,High Risk
+West Bengal,North 24 Parganas,28606,290477.0,0.9015206023196329,High Risk
+West Bengal,North Dinajpur,342,4901.0,0.930218322791267,High Risk
+West Bengal,North Twenty Four Parganas,1627,19735.0,0.9175576387129465,High Risk
+West Bengal,Paschim Bardhaman,1276,16681.0,0.9235057850248786,High Risk
+West Bengal,Paschim Medinipur,18085,214180.0,0.915561677094033,High Risk
+West Bengal,Purba Bardhaman,3041,24451.0,0.8756288086376836,High Risk
+West Bengal,Purba Medinipur,14322,103429.0,0.861528198087577,High Risk
+West Bengal,Purulia,783,7309.0,0.8928718018880832,High Risk
+West Bengal,Puruliya,13219,155038.0,0.9147370322114579,High Risk
+West Bengal,South 24 Pargana,2,29.0,0.9310344827586207,High Risk
+West Bengal,South 24 Parganas,33542,401187.0,0.9163931034654662,High Risk
+West Bengal,South Dinajpur,446,6819.0,0.9345945153248277,High Risk
+West Bengal,South Twenty Four Parganas,4107,42066.0,0.9023677078876052,High Risk
+West Bengal,Uttar Dinajpur,26892,270232.0,0.9004855087480387,High Risk
+West Bengal,West Medinipur,2,12.0,0.8333333333333334,High Risk
+West Bengal,West Midnapore,2190,30680.0,0.9286179921773142,High Risk
+Westbengal,Hooghly,7,144.0,0.9513888888888888,High Risk
